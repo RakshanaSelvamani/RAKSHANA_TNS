@@ -6,7 +6,7 @@ public class NestedIfElseDemo {
 		int a=10, b=20, c=5;
 		System.out.println("The largest number is");
 		if (a > b) {
-			if (a > c){
+			if (a > c)
 				System.out.println(a);
 			else
 				System.out.println(c);
